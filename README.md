@@ -11,7 +11,7 @@
 ![alt 蚌埠学院综合新闻](https://s1.ax1x.com/2020/07/06/UiztMQ.jpg "蚌埠学院综合新闻")
 
 ## 运行截图
-![alt 终端运行截图](https://ibb.co/N3HpYx9 "终端运行截图")
+![alt 终端运行截图](https://s1.ax1x.com/2020/07/06/UFPZB4.jpg "终端运行截图")
 
 ![alt 数据截图](https://s1.ax1x.com/2020/07/06/UFpsu4.jpg "数据截图")
 
